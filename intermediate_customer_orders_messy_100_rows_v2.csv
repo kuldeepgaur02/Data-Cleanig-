@@ -1,0 +1,101 @@
+CustomerID,FullName,Email,Gender,Age,Country,SignupDate,LastPurchaseDate,Product,Quantity,Price,PaymentMethod
+C001,Sarah Thomas,,Female,20.0,U.S.A,01/27/2023,15-07-2023,Headphones,2,$400,Credit Card
+C002,John White,john.white@email.com,Female,,usa,01/14/2023,25-07-2023,Tablet,3,$1200,Credit Card
+C003,James Robinson,james.robinson@email.com,male,56.0,U.K.,01/26/2023,2023/07/15,Tablet,2 ,1200,Cash
+C004,James Brown,james.brown@email.com,F,19.0,usa,2023-01-16,2023/07/22,Headphones,3,$1200,credit card
+C005,David Rodriguez,david.rodriguez@email.com,Male,,U.K.,01/24/2023,2023/07/23,Laptop,1,150,Credit Card
+C006,Jennifer Smith,jennifer.smith@email.com,male,58.0,United Kingdom,01/10/2023,27-07-2023,Laptop,1,$400,credit card
+C007,Patricia Anderson,patricia.anderson@email.com,male,51.0,United Kingdom,2023/05/14,2023-07-19,Headphones,,$400,Credit Card
+C008,David Garcia,david.garcia@email.com,female,60.0,U.K.,2023-01-24,2023/07/26,Phone,3,$800,Cash
+C009,Robert Brown,robert.brown@email.com,Male,38.0,U.K.,2023-01-18,2023-07-16,Laptop,3,800,Debit Card
+C010,Elizabeth Rodriguez,elizabeth@email,male,26.0,USA,2023-01-25,28-07-2023,Headphones,2,150,Debit Card
+C011,Joseph Davis,joseph.davis@email.com,M,60.0,United States,01/20/2023,16-07-2023,Headphones,2 ,$1200,Debit Card
+C012,Mike Jackson,mike@email,M,38.0,Canada,01/22/2023,2023/07/24,Tablet,2,$400,credit card
+C013,Michael Robinson,michael.robinson@email.com,male,21.0,U.K.,2023/01/23,2023/07/25,Tablet,2 ,$1200,credit card
+C014,Susan Johnson,susan.johnson@email.com,female,36.0,USA,2023-01-28,2023-07-12,Headphones,3,150,credit card
+C015,Chris Johnson,chris.johnson@email.com,M,51.0,usa,2023-01-16,2023-07-19,Laptop,,$150,PayPal
+C016,Jennifer Garcia ,jennifer@email,Male,45.0,USA,2023-01-26,2023-07-16,Headphones,2,800,Debit Card
+C017,Elizabeth Smith,,Female,45.0,usa,01/15/2023,2023-07-20,Headphones,2,$400,PayPal
+C018,Elizabeth Taylor,elizabeth.taylor@email.com,M,20.0,U.K.,2023-01-19,2023/07/21,Phone,2 ,$1200,PayPal
+C019,Sarah Davis,sarah.davis@email.com,Male,,U.K.,01/12/2023,23-07-2023,Laptop,1,$800,Credit Card
+C020,David Anderson,david.anderson@email.com,male,21.0,United Kingdom,2023/02/24,14-07-2023,Tablet,2,$150,credit card
+C021,Mike Smith,mike.smith@email.com,F,32.0,UK,2023-01-11,2023-07-17,Headphones,,$1200,Cash
+C022,Patricia Harris,patricia.harris@email.com,Female,56.0,U.S.A,01/21/2023,2023-07-26,Phone,2,150,PayPal
+C023,Mike Taylor,mike.taylor@email.com,F,36.0,U.S.A,2023-01-27,2023-07-18,Tablet,2,$400,Credit Card
+C024,Mike Harris,,Male,44.0,U.S.A,2023-01-12,13-07-2023,Laptop,2 ,400,Cash
+C025,Emily Garcia,emily.garcia@email.com,M,40.0,United Kingdom,01/14/2023,17-07-2023,Phone,1,$800,PayPal
+C026,Amanda Brown,amanda.brown@email.com,M,35.0,UK,2023/11/27,2023/07/19,Phone,1,$400,PayPal
+C027,Chris Clark,,Female,-5.0,U.K.,2023/11/11,2023/07/24,Laptop,2 ,800,credit card
+C028,Mike Garcia,,F,19.0,United Kingdom,2023-01-16,2023/07/25,Headphones,3,150,Credit Card
+C029,Mike Johnson,mike.johnson@email.com,female,60.0,United States,01/19/2023,2023-07-18,Laptop,1,1200,PayPal
+C030,Jessica Rodriguez,jessica.rodriguez@email.com,Female,47.0,U.K.,2023/09/28,2023-07-20,Headphones,1,$400,credit card
+C031,Emily Lee,,Female,50.0,United States,2023/09/17,25-07-2023,Phone,3,150,Credit Card
+C032,Sarah Robinson,sarah.robinson@email.com,Male,26.0,Canada,2023/11/22,2023/07/17,Phone,2 ,$800,Debit Card
+C033,Patricia Robinson ,patricia.robinson@email.com,M,48.0,U.K.,01/20/2023,20-07-2023,Tablet,1,$1200,credit card
+C034,Elizabeth Rodriguez,elizabeth.rodriguez@email.com,male,39.0,UK,2023/03/14,16-07-2023,Tablet,3,$1200,Cash
+C035,Amanda Brown,amanda.brown@email.com,M,26.0,United Kingdom,2023/10/25,2023-07-23,Headphones,2,800,Credit Card
+C036,James Brown,james.brown@email.com,F,34.0,USA,2023-01-12,2023/07/23,Headphones,2 ,$150,Credit Card
+C037,Emily Jackson,emily.jackson@email.com,male,39.0,UK,2023/02/20,13-07-2023,Tablet,,150,Debit Card
+C038,David White,david.white@email.com,M,20.0,Canada,2023-01-25,27-07-2023,Headphones,2,$800,PayPal
+C039,Daniel Thompson,daniel.thompson@email.com,Female,47.0,UK,2023/07/28,2023-07-26,Phone,2 ,$800,Debit Card
+C040,Linda Robinson,linda.robinson@email.com,M,23.0,United Kingdom,01/22/2023,14-07-2023,Phone,2,$800,credit card
+C041,Michael Thomas,michael.thomas@email.com,male,30.0,U.K.,2023/05/16,2023-07-24,Laptop,,$400,Credit Card
+C042,Jessica Johnson,jessica.johnson@email.com,male,-5.0,UK,2023/03/13,2023/07/17,Phone,2 ,1200,PayPal
+C043,David Lewis,david.lewis@email.com,Female,,United States,2023/07/23,2023-07-15,Phone,3,800,credit card
+C044,William Martinez,william.martinez@email.com,M,37.0,UK,2023-01-15,2023/07/23,Phone,3,1200,credit card
+C045,Susan Taylor,susan.taylor@email.com,Male,-5.0,Canada,01/23/2023,15-07-2023,Laptop,2 ,1200,credit card
+C046,Daniel White,daniel@email,Male,37.0,U.S.A,01/25/2023,2023/07/21,Laptop,3,400,Debit Card
+C047,Patricia Garcia,patricia.garcia@email.com,female,59.0,U.K.,2023-01-20,17-07-2023,Headphones,2,150,Cash
+C048,Jennifer Smith,jennifer.smith@email.com,M,56.0,United States,01/14/2023,10-07-2023,Tablet,1,$150,credit card
+C049,Barbara Martinez,barbara.martinez@email.com,F,51.0,U.K.,01/15/2023,25-07-2023,Phone,3,150,Credit Card
+C050,Jessica Garcia,jessica.garcia@email.com,Female,,usa,01/15/2023,2023-07-27,Laptop,2,800,Cash
+C051,Barbara Johnson,barbara.johnson@email.com,M,41.0,usa,2023/04/10,2023/07/26,Tablet,,$150,PayPal
+C052,Chris Robinson,chris.robinson@email.com,male,,U.S.A,01/16/2023,2023/07/14,Tablet,3,150,credit card
+C053,Patricia Davis,patricia.davis@email.com,male,19.0,Canada,2023/01/22,2023/07/15,Tablet,3,800,credit card
+C054,Joseph White,joseph.white@email.com,Female,34.0,USA,01/21/2023,2023/07/25,Tablet,2,1200,PayPal
+C055,Barbara Taylor,barbara.taylor@email.com,Male,-5.0,U.S.A,01/15/2023,2023/07/14,Phone,2 ,150,credit card
+C056,Jessica Johnson,jessica.johnson@email.com,female,43.0,USA,01/27/2023,15-07-2023,Phone,3,$800,PayPal
+C057,Robert Garcia,robert.garcia@email.com,male,,Canada,2023-01-10,2023/07/20,Laptop,3,800,Credit Card
+C058,Mike Robinson,mike.robinson@email.com,Female,28.0,usa,2023-01-25,2023-07-23,Phone,1,$400,credit card
+C059,Jessica Anderson,jessica@email,Male,57.0,U.S.A,2023-01-19,2023-07-18,Tablet,,800,Credit Card
+C060,William Robinson,william.robinson@email.com,F,47.0,USA,2023-01-16,2023-07-12,Phone,2 ,$150,Debit Card
+C061,David Wilson,david.wilson@email.com,F,57.0,Canada,01/19/2023,2023/07/18,Tablet,3,1200,Credit Card
+C062,David Garcia,david.garcia@email.com,Female,52.0,U.K.,01/27/2023,2023-07-25,Laptop,2,800,Credit Card
+C063,Barbara Anderson,barbara.anderson@email.com,F,38.0,United States,2023/12/18,2023/07/27,Phone,,$1200,PayPal
+C064,Jennifer Wilson,jennifer.wilson@email.com,male,25.0,USA,2023-01-18,2023-07-28,Headphones,2 ,$400,Debit Card
+C065,Jennifer Johnson,jennifer.johnson@email.com,M,60.0,U.S.A,2023-01-27,2023/07/26,Headphones,2,400,Debit Card
+C066,Jessica Thompson,jessica.thompson@email.com,Male,18.0,usa,2023/10/10,2023-07-17,Headphones,3,400,credit card
+C067,John Johnson,john.johnson@email.com,female,45.0,USA,2023-01-28,2023-07-10,Laptop,2,$800,Credit Card
+C068,Jessica Garcia,jessica.garcia@email.com,F,51.0,USA,01/21/2023,2023-07-13,Phone,,150,credit card
+C069,Chris Jackson,chris.jackson@email.com,male,26.0,U.K.,2023/09/24,2023-07-19,Laptop,3,$150,credit card
+C070,Amanda Clark,amanda.clark@email.com,male,,usa,01/24/2023,2023/07/27,Laptop,3,150,credit card
+C071,William Robinson,william.robinson@email.com,Female,36.0,United Kingdom,01/28/2023,2023/07/23,Tablet,1,1200,Cash
+C072,Amanda Garcia,amanda.garcia@email.com,Male,29.0,usa,01/23/2023,11-07-2023,Tablet,,$800,Debit Card
+C073,Joseph Thomas,joseph.thomas@email.com,M,48.0,U.S.A,01/11/2023,2023/07/12,Phone,3,$1200,Credit Card
+C074,Elizabeth Robinson,elizabeth.robinson@email.com,Female,,usa,01/18/2023,2023-07-18,Laptop,,800,credit card
+C075,Daniel Thompson,daniel.thompson@email.com,female,-5.0,U.K.,2023-01-20,2023/07/21,Laptop,3,$400,Credit Card
+C076,Joseph Martinez,joseph.martinez@email.com,F,39.0,United Kingdom,2023/05/27,2023/07/20,Tablet,,$150,PayPal
+C077,Barbara Johnson,barbara.johnson@email.com,F,53.0,U.K.,2023-01-14,2023-07-18,Laptop,2 ,$800,credit card
+C078,Patricia Brown ,patricia.brown@email.com,F,45.0,USA,2023/12/15,2023/07/16,Phone,2,$800,Credit Card
+C079,Jessica White,,Male,48.0,U.S.A,2023-01-22,2023/07/17,Laptop,3,1200,Cash
+C080,Susan Brown,susan.brown@email.com,Male,46.0,UK,2023-01-26,2023-07-17,Laptop,2,150,PayPal
+C081,Michael Rodriguez,michael.rodriguez@email.com,M,26.0,U.S.A,2023-01-23,2023-07-23,Laptop,3,150,PayPal
+C082,Mike Garcia,mike.garcia@email.com,M,49.0,U.K.,2023-01-28,2023/07/23,Headphones,2 ,150,credit card
+C083,Joseph Clark,joseph.clark@email.com,Male,33.0,USA,01/12/2023,23-07-2023,Headphones,2 ,$800,Credit Card
+C084,Amanda Brown,amanda.brown@email.com,Female,35.0,UK,2023/12/14,2023/07/20,Phone,,800,Cash
+C085,Mike Jackson ,mike.jackson@email.com,M,35.0,United Kingdom,2023-01-28,2023-07-24,Laptop,,150,Debit Card
+C086,Sarah Smith,sarah.smith@email.com,Male,60.0,United Kingdom,01/18/2023,2023/07/23,Tablet,3,$150,Credit Card
+C087,Chris Thomas,chris.thomas@email.com,F,26.0,usa,01/20/2023,2023/07/18,Laptop,3,$400,Debit Card
+C088,John Martinez,john.martinez@email.com,Male,19.0,USA,2023/04/17,2023/07/13,Phone,,800,credit card
+C089,Emily Martin,emily.martin@email.com,Male,29.0,USA,2023-01-11,28-07-2023,Tablet,3,$400,Cash
+C090,Elizabeth Clark ,elizabeth.clark@email.com,F,52.0,USA,01/22/2023,17-07-2023,Phone,2,$400,PayPal
+C091,John Clark,john.clark@email.com,female,28.0,U.K.,2023/10/21,27-07-2023,Tablet,,$400,Cash
+C092,Daniel Martin,daniel.martin@email.com,female,57.0,United States,2023-01-10,18-07-2023,Tablet,,$400,Debit Card
+C093,John Clark,john.clark@email.com,female,-5.0,usa,2023-01-21,2023/07/26,Tablet,2,400,PayPal
+C094,Mike Harris,mike.harris@email.com,Female,38.0,United Kingdom,2023/10/24,20-07-2023,Phone,3,1200,Debit Card
+C095,Linda Davis,linda.davis@email.com,F,36.0,usa,01/20/2023,2023-07-13,Headphones,1,150,PayPal
+C096,Mike Brown,mike@email,F,22.0,United Kingdom,01/16/2023,25-07-2023,Headphones,2 ,$400,Debit Card
+C097,Jessica Wilson,jessica.wilson@email.com,female,49.0,UK,2023/08/26,2023/07/25,Laptop,3,1200,Credit Card
+C098,John Davis,john.davis@email.com,Female,27.0,United States,2023/12/16,12-07-2023,Laptop,1,1200,Credit Card
+C011,Joseph Davis,joseph.davis@email.com,M,60.0,United States,01/20/2023,16-07-2023,Headphones,2 ,$1200,Debit Card
+C026,Amanda Brown,amanda.brown@email.com,M,35.0,UK,2023/11/27,2023/07/19,Phone,1,$400,PayPal
