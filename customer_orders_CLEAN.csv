@@ -1,0 +1,99 @@
+CustomerID,FullName,Email,Gender,Age,Country,SignupDate,LastPurchaseDate,Product,Quantity,Price,PaymentMethod,DaysSinceSignup,SignupMonth,SignupMonthName,DaysBetween,EmailIsValid,TotalOrderValue,AgeGroup,IshighValue,CustomerTenure
+C001,Sarah Thomas,unknown@unknown.com,Female,20.0,United States,2023-01-27,2023-07-15,Headphones,2,400,Credit Card,1130.0,1.0,January,169.0,True,800,Young AdultsAdults,Standard ,Loyal (1y+)
+C002,John White,john.white@email.com,Female,38.0,United States,2023-01-14,2023-07-25,Tablet,3,1200,Credit Card,1143.0,1.0,January,192.0,True,3600,Middle-Age,Higher Value,Loyal (1y+)
+C003,James Robinson,james.robinson@email.com,Male,56.0,United Kingdom,2023-01-26,,Tablet,2,1200,Cash,1131.0,1.0,January,,True,2400,Senior,Higher Value,Loyal (1y+)
+C004,James Brown,james.brown@email.com,Female,19.0,United States,,,Headphones,3,1200,Credit Card,,,,,True,3600,Young AdultsAdults,Higher Value,
+C005,David Rodriguez,david.rodriguez@email.com,Male,38.0,United Kingdom,2023-01-24,,Laptop,1,150,Credit Card,1133.0,1.0,January,,True,150,Middle-Age,Standard ,Loyal (1y+)
+C006,Jennifer Smith,jennifer.smith@email.com,Male,58.0,United Kingdom,2023-01-10,2023-07-27,Laptop,1,400,Credit Card,1147.0,1.0,January,198.0,True,400,Senior,Standard ,Loyal (1y+)
+C007,Patricia Anderson,patricia.anderson@email.com,Male,51.0,United Kingdom,,,Headphones,2,400,Credit Card,,,,,True,800,Senior,Standard ,
+C008,David Garcia,david.garcia@email.com,Female,60.0,United Kingdom,,,Phone,3,800,Cash,,,,,True,2400,Senior,Higher Value,
+C009,Robert Brown,robert.brown@email.com,Male,38.0,United Kingdom,,,Laptop,3,800,Debit Card,,,,,True,2400,Middle-Age,Higher Value,
+C010,Elizabeth Rodriguez,invalid@unknown.com,Male,26.0,United States,,2023-07-28,Headphones,2,150,Debit Card,,,,,False,300,Young AdultsAdults,Standard ,
+C011,Joseph Davis,joseph.davis@email.com,Male,60.0,United States,2023-01-20,2023-07-16,Headphones,2,1200,Debit Card,1137.0,1.0,January,177.0,True,2400,Senior,Higher Value,Loyal (1y+)
+C012,Mike Jackson,invalid@unknown.com,Male,38.0,Canada,2023-01-22,,Tablet,2,400,Credit Card,1135.0,1.0,January,,False,800,Middle-Age,Standard ,Loyal (1y+)
+C013,Michael Robinson,michael.robinson@email.com,Male,21.0,United Kingdom,,,Tablet,2,1200,Credit Card,,,,,True,2400,Young AdultsAdults,Higher Value,
+C014,Susan Johnson,susan.johnson@email.com,Female,36.0,United States,,,Headphones,3,150,Credit Card,,,,,True,450,Middle-Age,Standard ,
+C015,Chris Johnson,chris.johnson@email.com,Male,51.0,United States,,,Laptop,2,150,Paypal,,,,,True,300,Senior,Standard ,
+C016,Jennifer Garcia,invalid@unknown.com,Male,45.0,United States,,,Headphones,2,800,Debit Card,,,,,False,1600,Middle-Age,Higher Value,
+C017,Elizabeth Smith,unknown@unknown.com,Female,45.0,United States,2023-01-15,,Headphones,2,400,Paypal,1142.0,1.0,January,,True,800,Middle-Age,Standard ,Loyal (1y+)
+C018,Elizabeth Taylor,elizabeth.taylor@email.com,Male,20.0,United Kingdom,,,Phone,2,1200,Paypal,,,,,True,2400,Young AdultsAdults,Higher Value,
+C019,Sarah Davis,sarah.davis@email.com,Male,38.0,United Kingdom,2023-01-12,2023-07-23,Laptop,1,800,Credit Card,1145.0,1.0,January,192.0,True,800,Middle-Age,Standard ,Loyal (1y+)
+C020,David Anderson,david.anderson@email.com,Male,21.0,United Kingdom,,2023-07-14,Tablet,2,150,Credit Card,,,,,True,300,Young AdultsAdults,Standard ,
+C021,Mike Smith,mike.smith@email.com,Female,32.0,United Kingdom,,,Headphones,2,1200,Cash,,,,,True,2400,Middle-Age,Higher Value,
+C022,Patricia Harris,patricia.harris@email.com,Female,56.0,United States,2023-01-21,,Phone,2,150,Paypal,1136.0,1.0,January,,True,300,Senior,Standard ,Loyal (1y+)
+C023,Mike Taylor,mike.taylor@email.com,Female,36.0,United States,,,Tablet,2,400,Credit Card,,,,,True,800,Middle-Age,Standard ,
+C024,Mike Harris,unknown@unknown.com,Male,44.0,United States,,2023-07-13,Laptop,2,400,Cash,,,,,True,800,Middle-Age,Standard ,
+C025,Emily Garcia,emily.garcia@email.com,Male,40.0,United Kingdom,2023-01-14,2023-07-17,Phone,1,800,Paypal,1143.0,1.0,January,184.0,True,800,Middle-Age,Standard ,Loyal (1y+)
+C026,Amanda Brown,amanda.brown@email.com,Male,35.0,United Kingdom,,,Phone,1,400,Paypal,,,,,True,400,Middle-Age,Standard ,
+C027,Chris Clark,unknown@unknown.com,Female,38.0,United Kingdom,,,Laptop,2,800,Credit Card,,,,,True,1600,Middle-Age,Higher Value,
+C028,Mike Garcia,unknown@unknown.com,Female,19.0,United Kingdom,,,Headphones,3,150,Credit Card,,,,,True,450,Young AdultsAdults,Standard ,
+C029,Mike Johnson,mike.johnson@email.com,Female,60.0,United States,2023-01-19,,Laptop,1,1200,Paypal,1138.0,1.0,January,,True,1200,Senior,Standard ,Loyal (1y+)
+C030,Jessica Rodriguez,jessica.rodriguez@email.com,Female,47.0,United Kingdom,,,Headphones,1,400,Credit Card,,,,,True,400,Senior,Standard ,
+C031,Emily Lee,unknown@unknown.com,Female,50.0,United States,,2023-07-25,Phone,3,150,Credit Card,,,,,True,450,Senior,Standard ,
+C032,Sarah Robinson,sarah.robinson@email.com,Male,26.0,Canada,,,Phone,2,800,Debit Card,,,,,True,1600,Young AdultsAdults,Higher Value,
+C033,Patricia Robinson,patricia.robinson@email.com,Male,48.0,United Kingdom,2023-01-20,2023-07-20,Tablet,1,1200,Credit Card,1137.0,1.0,January,181.0,True,1200,Senior,Standard ,Loyal (1y+)
+C034,Elizabeth Rodriguez,elizabeth.rodriguez@email.com,Male,39.0,United Kingdom,,2023-07-16,Tablet,3,1200,Cash,,,,,True,3600,Middle-Age,Higher Value,
+C035,Amanda Brown,amanda.brown@email.com,Male,26.0,United Kingdom,,,Headphones,2,800,Credit Card,,,,,True,1600,Young AdultsAdults,Higher Value,
+C036,James Brown,james.brown@email.com,Female,34.0,United States,,,Headphones,2,150,Credit Card,,,,,True,300,Middle-Age,Standard ,
+C037,Emily Jackson,emily.jackson@email.com,Male,39.0,United Kingdom,,2023-07-13,Tablet,2,150,Debit Card,,,,,True,300,Middle-Age,Standard ,
+C038,David White,david.white@email.com,Male,20.0,Canada,,2023-07-27,Headphones,2,800,Paypal,,,,,True,1600,Young AdultsAdults,Higher Value,
+C039,Daniel Thompson,daniel.thompson@email.com,Female,47.0,United Kingdom,,,Phone,2,800,Debit Card,,,,,True,1600,Senior,Higher Value,
+C040,Linda Robinson,linda.robinson@email.com,Male,23.0,United Kingdom,2023-01-22,2023-07-14,Phone,2,800,Credit Card,1135.0,1.0,January,173.0,True,1600,Young AdultsAdults,Higher Value,Loyal (1y+)
+C041,Michael Thomas,michael.thomas@email.com,Male,30.0,United Kingdom,,,Laptop,2,400,Credit Card,,,,,True,800,Young AdultsAdults,Standard ,
+C042,Jessica Johnson,jessica.johnson@email.com,Male,38.0,United Kingdom,,,Phone,2,1200,Paypal,,,,,True,2400,Middle-Age,Higher Value,
+C043,David Lewis,david.lewis@email.com,Female,38.0,United States,,,Phone,3,800,Credit Card,,,,,True,2400,Middle-Age,Higher Value,
+C044,William Martinez,william.martinez@email.com,Male,37.0,United Kingdom,,,Phone,3,1200,Credit Card,,,,,True,3600,Middle-Age,Higher Value,
+C045,Susan Taylor,susan.taylor@email.com,Male,38.0,Canada,2023-01-23,2023-07-15,Laptop,2,1200,Credit Card,1134.0,1.0,January,173.0,True,2400,Middle-Age,Higher Value,Loyal (1y+)
+C046,Daniel White,invalid@unknown.com,Male,37.0,United States,2023-01-25,,Laptop,3,400,Debit Card,1132.0,1.0,January,,False,1200,Middle-Age,Standard ,Loyal (1y+)
+C047,Patricia Garcia,patricia.garcia@email.com,Female,59.0,United Kingdom,,2023-07-17,Headphones,2,150,Cash,,,,,True,300,Senior,Standard ,
+C048,Jennifer Smith,jennifer.smith@email.com,Male,56.0,United States,2023-01-14,2023-07-10,Tablet,1,150,Credit Card,1143.0,1.0,January,177.0,True,150,Senior,Standard ,Loyal (1y+)
+C049,Barbara Martinez,barbara.martinez@email.com,Female,51.0,United Kingdom,2023-01-15,2023-07-25,Phone,3,150,Credit Card,1142.0,1.0,January,191.0,True,450,Senior,Standard ,Loyal (1y+)
+C050,Jessica Garcia,jessica.garcia@email.com,Female,38.0,United States,2023-01-15,,Laptop,2,800,Cash,1142.0,1.0,January,,True,1600,Middle-Age,Higher Value,Loyal (1y+)
+C051,Barbara Johnson,barbara.johnson@email.com,Male,41.0,United States,,,Tablet,2,150,Paypal,,,,,True,300,Middle-Age,Standard ,
+C052,Chris Robinson,chris.robinson@email.com,Male,38.0,United States,2023-01-16,,Tablet,3,150,Credit Card,1141.0,1.0,January,,True,450,Middle-Age,Standard ,Loyal (1y+)
+C053,Patricia Davis,patricia.davis@email.com,Male,19.0,Canada,,,Tablet,3,800,Credit Card,,,,,True,2400,Young AdultsAdults,Higher Value,
+C054,Joseph White,joseph.white@email.com,Female,34.0,United States,2023-01-21,,Tablet,2,1200,Paypal,1136.0,1.0,January,,True,2400,Middle-Age,Higher Value,Loyal (1y+)
+C055,Barbara Taylor,barbara.taylor@email.com,Male,38.0,United States,2023-01-15,,Phone,2,150,Credit Card,1142.0,1.0,January,,True,300,Middle-Age,Standard ,Loyal (1y+)
+C056,Jessica Johnson,jessica.johnson@email.com,Female,43.0,United States,2023-01-27,2023-07-15,Phone,3,800,Paypal,1130.0,1.0,January,169.0,True,2400,Middle-Age,Higher Value,Loyal (1y+)
+C057,Robert Garcia,robert.garcia@email.com,Male,38.0,Canada,,,Laptop,3,800,Credit Card,,,,,True,2400,Middle-Age,Higher Value,
+C058,Mike Robinson,mike.robinson@email.com,Female,28.0,United States,,,Phone,1,400,Credit Card,,,,,True,400,Young AdultsAdults,Standard ,
+C059,Jessica Anderson,invalid@unknown.com,Male,57.0,United States,,,Tablet,2,800,Credit Card,,,,,False,1600,Senior,Higher Value,
+C060,William Robinson,william.robinson@email.com,Female,47.0,United States,,,Phone,2,150,Debit Card,,,,,True,300,Senior,Standard ,
+C061,David Wilson,david.wilson@email.com,Female,57.0,Canada,2023-01-19,,Tablet,3,1200,Credit Card,1138.0,1.0,January,,True,3600,Senior,Higher Value,Loyal (1y+)
+C062,David Garcia,david.garcia@email.com,Female,52.0,United Kingdom,2023-01-27,,Laptop,2,800,Credit Card,1130.0,1.0,January,,True,1600,Senior,Higher Value,Loyal (1y+)
+C063,Barbara Anderson,barbara.anderson@email.com,Female,38.0,United States,,,Phone,2,1200,Paypal,,,,,True,2400,Middle-Age,Higher Value,
+C064,Jennifer Wilson,jennifer.wilson@email.com,Male,25.0,United States,,,Headphones,2,400,Debit Card,,,,,True,800,Young AdultsAdults,Standard ,
+C065,Jennifer Johnson,jennifer.johnson@email.com,Male,60.0,United States,,,Headphones,2,400,Debit Card,,,,,True,800,Senior,Standard ,
+C066,Jessica Thompson,jessica.thompson@email.com,Male,18.0,United States,,,Headphones,3,400,Credit Card,,,,,True,1200,Teen,Standard ,
+C067,John Johnson,john.johnson@email.com,Female,45.0,United States,,,Laptop,2,800,Credit Card,,,,,True,1600,Middle-Age,Higher Value,
+C068,Jessica Garcia,jessica.garcia@email.com,Female,51.0,United States,2023-01-21,,Phone,2,150,Credit Card,1136.0,1.0,January,,True,300,Senior,Standard ,Loyal (1y+)
+C069,Chris Jackson,chris.jackson@email.com,Male,26.0,United Kingdom,,,Laptop,3,150,Credit Card,,,,,True,450,Young AdultsAdults,Standard ,
+C070,Amanda Clark,amanda.clark@email.com,Male,38.0,United States,2023-01-24,,Laptop,3,150,Credit Card,1133.0,1.0,January,,True,450,Middle-Age,Standard ,Loyal (1y+)
+C071,William Robinson,william.robinson@email.com,Female,36.0,United Kingdom,2023-01-28,,Tablet,1,1200,Cash,1129.0,1.0,January,,True,1200,Middle-Age,Standard ,Loyal (1y+)
+C072,Amanda Garcia,amanda.garcia@email.com,Male,29.0,United States,2023-01-23,2023-07-11,Tablet,2,800,Debit Card,1134.0,1.0,January,169.0,True,1600,Young AdultsAdults,Higher Value,Loyal (1y+)
+C073,Joseph Thomas,joseph.thomas@email.com,Male,48.0,United States,2023-01-11,,Phone,3,1200,Credit Card,1146.0,1.0,January,,True,3600,Senior,Higher Value,Loyal (1y+)
+C074,Elizabeth Robinson,elizabeth.robinson@email.com,Female,38.0,United States,2023-01-18,,Laptop,2,800,Credit Card,1139.0,1.0,January,,True,1600,Middle-Age,Higher Value,Loyal (1y+)
+C075,Daniel Thompson,daniel.thompson@email.com,Female,38.0,United Kingdom,,,Laptop,3,400,Credit Card,,,,,True,1200,Middle-Age,Standard ,
+C076,Joseph Martinez,joseph.martinez@email.com,Female,39.0,United Kingdom,,,Tablet,2,150,Paypal,,,,,True,300,Middle-Age,Standard ,
+C077,Barbara Johnson,barbara.johnson@email.com,Female,53.0,United Kingdom,,,Laptop,2,800,Credit Card,,,,,True,1600,Senior,Higher Value,
+C078,Patricia Brown,patricia.brown@email.com,Female,45.0,United States,,,Phone,2,800,Credit Card,,,,,True,1600,Middle-Age,Higher Value,
+C079,Jessica White,unknown@unknown.com,Male,48.0,United States,,,Laptop,3,1200,Cash,,,,,True,3600,Senior,Higher Value,
+C080,Susan Brown,susan.brown@email.com,Male,46.0,United Kingdom,,,Laptop,2,150,Paypal,,,,,True,300,Senior,Standard ,
+C081,Michael Rodriguez,michael.rodriguez@email.com,Male,26.0,United States,,,Laptop,3,150,Paypal,,,,,True,450,Young AdultsAdults,Standard ,
+C082,Mike Garcia,mike.garcia@email.com,Male,49.0,United Kingdom,,,Headphones,2,150,Credit Card,,,,,True,300,Senior,Standard ,
+C083,Joseph Clark,joseph.clark@email.com,Male,33.0,United States,2023-01-12,2023-07-23,Headphones,2,800,Credit Card,1145.0,1.0,January,192.0,True,1600,Middle-Age,Higher Value,Loyal (1y+)
+C084,Amanda Brown,amanda.brown@email.com,Female,35.0,United Kingdom,,,Phone,2,800,Cash,,,,,True,1600,Middle-Age,Higher Value,
+C085,Mike Jackson,mike.jackson@email.com,Male,35.0,United Kingdom,,,Laptop,2,150,Debit Card,,,,,True,300,Middle-Age,Standard ,
+C086,Sarah Smith,sarah.smith@email.com,Male,60.0,United Kingdom,2023-01-18,,Tablet,3,150,Credit Card,1139.0,1.0,January,,True,450,Senior,Standard ,Loyal (1y+)
+C087,Chris Thomas,chris.thomas@email.com,Female,26.0,United States,2023-01-20,,Laptop,3,400,Debit Card,1137.0,1.0,January,,True,1200,Young AdultsAdults,Standard ,Loyal (1y+)
+C088,John Martinez,john.martinez@email.com,Male,19.0,United States,,,Phone,2,800,Credit Card,,,,,True,1600,Young AdultsAdults,Higher Value,
+C089,Emily Martin,emily.martin@email.com,Male,29.0,United States,,2023-07-28,Tablet,3,400,Cash,,,,,True,1200,Young AdultsAdults,Standard ,
+C090,Elizabeth Clark,elizabeth.clark@email.com,Female,52.0,United States,2023-01-22,2023-07-17,Phone,2,400,Paypal,1135.0,1.0,January,176.0,True,800,Senior,Standard ,Loyal (1y+)
+C091,John Clark,john.clark@email.com,Female,28.0,United Kingdom,,2023-07-27,Tablet,2,400,Cash,,,,,True,800,Young AdultsAdults,Standard ,
+C092,Daniel Martin,daniel.martin@email.com,Female,57.0,United States,,2023-07-18,Tablet,2,400,Debit Card,,,,,True,800,Senior,Standard ,
+C093,John Clark,john.clark@email.com,Female,38.0,United States,,,Tablet,2,400,Paypal,,,,,True,800,Middle-Age,Standard ,
+C094,Mike Harris,mike.harris@email.com,Female,38.0,United Kingdom,,2023-07-20,Phone,3,1200,Debit Card,,,,,True,3600,Middle-Age,Higher Value,
+C095,Linda Davis,linda.davis@email.com,Female,36.0,United States,2023-01-20,,Headphones,1,150,Paypal,1137.0,1.0,January,,True,150,Middle-Age,Standard ,Loyal (1y+)
+C096,Mike Brown,invalid@unknown.com,Female,22.0,United Kingdom,2023-01-16,2023-07-25,Headphones,2,400,Debit Card,1141.0,1.0,January,190.0,False,800,Young AdultsAdults,Standard ,Loyal (1y+)
+C097,Jessica Wilson,jessica.wilson@email.com,Female,49.0,United Kingdom,,,Laptop,3,1200,Credit Card,,,,,True,3600,Senior,Higher Value,
+C098,John Davis,john.davis@email.com,Female,27.0,United States,,2023-07-12,Laptop,1,1200,Credit Card,,,,,True,1200,Young AdultsAdults,Standard ,
